@@ -1,0 +1,9 @@
+.one{
+    border-top: .5px solid black;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border-bottom: .5px solid black
+}
+.two{
+    list-style: none;
+}
